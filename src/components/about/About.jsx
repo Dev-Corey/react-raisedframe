@@ -24,17 +24,17 @@ const About = () => {
 						<article className='about__card'>
 							<FaAward className='about__icon' />
 							<h5>Certified</h5>
-							<small>FAA Part 107 Drone Certification</small>
+							<small>FAA Part 107 Drone Certification and LLC</small>
 						</article>
 						<article className='about__card'>
 							<FiUsers className='about__icon' />
 							<h5>Clients</h5>
-							<small>Privates Residences - Corperate Construction</small>
+							<small>Private Residences, Commercial Properties, Construction</small>
 						</article>
 						<article className='about__card'>
 							<FaPhotoVideo className='about__icon' />
 							<h5>Quality</h5>
-							<small>High Resolution, Professionally Edited</small>
+							<small>High Resolution, Professionally Edited Video Files</small>
 						</article>
 					</div>
 
