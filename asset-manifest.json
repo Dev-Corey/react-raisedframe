@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-raisedframe/static/css/main.35d6114d.css",
-    "main.js": "/react-raisedframe/static/js/main.65d3f19d.js",
+    "main.css": "/react-raisedframe/static/css/main.84039e29.css",
+    "main.js": "/react-raisedframe/static/js/main.2be274e1.js",
     "static/media/mainhero.mp4": "/react-raisedframe/static/media/mainhero.dd88b03670cf8d4b8394.mp4",
     "static/media/client1.png": "/react-raisedframe/static/media/client1.1bb81af515d87d717617.png",
     "static/media/client2.png": "/react-raisedframe/static/media/client2.7fed60c5d42538ca1153.png",
@@ -9,11 +9,11 @@
     "static/media/client3.png": "/react-raisedframe/static/media/client3.b826d59ad69b9ba348ca.png",
     "static/media/me-about.png": "/react-raisedframe/static/media/me-about.b87f5140480726849a08.png",
     "index.html": "/react-raisedframe/index.html",
-    "main.35d6114d.css.map": "/react-raisedframe/static/css/main.35d6114d.css.map",
-    "main.65d3f19d.js.map": "/react-raisedframe/static/js/main.65d3f19d.js.map"
+    "main.84039e29.css.map": "/react-raisedframe/static/css/main.84039e29.css.map",
+    "main.2be274e1.js.map": "/react-raisedframe/static/js/main.2be274e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.35d6114d.css",
-    "static/js/main.65d3f19d.js"
+    "static/css/main.84039e29.css",
+    "static/js/main.2be274e1.js"
   ]
 }
